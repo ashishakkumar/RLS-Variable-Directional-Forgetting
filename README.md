@@ -1,4 +1,4 @@
-# RLS-Variable-Directional-Forgetting
+# Recursive Least Squares : Variable Directional Forgetting
 
 This notebook contains the implementation of the paper Recursive Least Squares with Variable-Direction Forgetting -- Compensating for the loss of persistency [https://arxiv.org/abs/2003.03523]
 - Generated a synthetic dataset with two parameters (beta, gamma) for test the algorithm convergence [Present as example_data_gen() method in the RLS_VDF class
